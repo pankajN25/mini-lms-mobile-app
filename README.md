@@ -6,7 +6,20 @@ A Mini LMS mobile app built with **Expo (React Native)** and **TypeScript** as a
 
 ---
 
+## Demo Video
+
+[![MiniLMS Demo](https://img.shields.io/badge/Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/17olovHmIQEZQ5KoxkJzGwa-tVt_hrMwQ/view?usp=drive_link)
+
+> Click the button above to watch the full app walkthrough video.
+
+---
+
 ## Screenshots
+
+### Onboarding
+| Onboarding |
+|------------|
+| ![Onboarding](./assets/onboarding.jpeg) |
 
 ### Authentication
 | Login | Register | Forgot Password | Google Sign-In |
