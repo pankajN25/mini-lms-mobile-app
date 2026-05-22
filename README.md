@@ -8,9 +8,30 @@ A Mini LMS mobile app built with **Expo (React Native)** and **TypeScript** as a
 
 ## Screenshots
 
-| Login | Course Catalog | Course Detail | Profile |
-|-------|---------------|---------------|---------|
-| ![Login](./assets/screenshots/login.png) | ![Catalog](./assets/screenshots/catalog.png) | ![Detail](./assets/screenshots/detail.png) | ![Profile](./assets/screenshots/profile.png) |
+### Authentication
+| Login | Register | Forgot Password | Google Sign-In |
+|-------|----------|-----------------|----------------|
+| ![Login](./assets/screenshots/login.jpeg) | ![Register](./assets/screenshots/register.jpeg) | ![Forgot Password](./assets/screenshots/forgot-password.jpeg) | ![Google Sign-In](./assets/screenshots/google-signin.jpeg) |
+
+### Course Catalog & Search
+| Home | Search | Search Filters | Bookmarks |
+|------|--------|----------------|-----------|
+| ![Home](./assets/screenshots/home.jpeg) | ![Search](./assets/screenshots/search.jpeg) | ![Filters](./assets/screenshots/search-filters.jpeg) | ![Home Offline](./assets/screenshots/home-cached-offline.jpeg) |
+
+### Course Detail & Content
+| Course Detail | Course Reviews | WebView Content | YouTube Preview |
+|---------------|----------------|-----------------|-----------------|
+| ![Course Detail](./assets/screenshots/course-detail.jpeg) | ![Reviews](./assets/screenshots/course-reviews.jpeg) | ![WebView](./assets/screenshots/course-content-webview.jpeg) | ![YouTube](./assets/screenshots/youtube-preview.jpeg) |
+
+### AI & Notifications
+| AI Assistant | AI on Home | Notifications | Offline Mode |
+|--------------|------------|---------------|--------------|
+| ![AI Assistant](./assets/screenshots/ai-course-assistant.jpeg) | ![AI Home](./assets/screenshots/ai-assistant-home.jpeg) | ![Notifications](./assets/screenshots/notifications.jpeg) | ![Offline](./assets/screenshots/home-offline-banner.jpeg) |
+
+### Profile & Settings
+| Profile | Edit Profile | Refer & Earn |
+|---------|-------------|--------------|
+| ![Profile](./assets/screenshots/profile.jpeg) | ![Edit Profile](./assets/screenshots/edit-profile.jpeg) | ![Refer & Earn](./assets/screenshots/refer-earn.jpeg) |
 
 ---
 
